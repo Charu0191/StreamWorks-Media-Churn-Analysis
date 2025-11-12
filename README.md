@@ -1,6 +1,6 @@
-**📊 StreamWorks Media: Customer Churn Prediction**
+ # StreamWorks Media: Customer Churn Prediction
 
-**🎯 Overview**
+## 📊 Overview
 
 Analyzed customer churn patterns for StreamWorks Media, a UK-based streaming platform competing with Netflix & Prime Video.
 Using data from 1,500 subscribers across 6 countries, I built predictive models to identify churn drivers and improve retention.
@@ -9,7 +9,7 @@ Using data from 1,500 subscribers across 6 countries, I built predictive models 
 
 **⚙️ Business Problem** :  **📉 Churn Rate**: 23.4% (351/1500)
 
-**🎯 Goals** :
+## 🎯 Goals :
 
 ✅ Identify why customers leave
 
@@ -18,7 +18,7 @@ Using data from 1,500 subscribers across 6 countries, I built predictive models 
 ✅ Recommend retention actions
 
 
-**📊 Dataset Summary** :
+## 📊 Dataset Summary :
 
 |    Category     |    Description                                                                                   |
 | --------------- | ------------------------------------------------------------------------------------------------ |
@@ -39,7 +39,7 @@ Using data from 1,500 subscribers across 6 countries, I built predictive models 
 
 
 
-**🔬 Methodology** :
+## 🔬 Methodology :
 
 
 **1. Data Cleaning & Preparation**
@@ -88,8 +88,7 @@ Using data from 1,500 subscribers across 6 countries, I built predictive models 
 **Class Balancing** : Addressed dataset imbalance for accurate predictions
 
 
-
-**🔍 Key Findings** 
+## 🔍 Key Findings 
 
 
 **a) Churn Drivers (Statistical Significance)**
@@ -145,7 +144,7 @@ Using data from 1,500 subscribers across 6 countries, I built predictive models 
 
 
 
-**💡 Key Insights** :
+## 💡 Key Insights :
 
 
 
@@ -158,7 +157,7 @@ Using data from 1,500 subscribers across 6 countries, I built predictive models 
 | 📱 Heavy mobile users churn more    | Improve mobile UX & notifications        |
 
 
-**🧠 Recommendations** : 
+## 🧠 Recommendations : 
 
 
 1. 🎬 Engage low-watch users in first 30 days
@@ -170,7 +169,7 @@ Using data from 1,500 subscribers across 6 countries, I built predictive models 
 4. 🎯 Target new/basic users with promo offers
 
 
-**🛠️ Technologies Used**
+## 🛠️ Technologies Used
 
 
 ✅ Python 3.8+
@@ -190,7 +189,7 @@ Using data from 1,500 subscribers across 6 countries, I built predictive models 
 ✅ Statistics - T-tests, Chi-square tests, correlation analysis
 
 
-**📈 Business Impact** :
+## 📈 Business Impact :
 
 
 ✅ Clear understanding of churn drivers
@@ -206,7 +205,7 @@ Using data from 1,500 subscribers across 6 countries, I built predictive models 
 
 
 
-**📧 Contact** : 
+## 📧 Contact : 
 
  **Charu Madaan**
 
